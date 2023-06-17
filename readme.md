@@ -1,6 +1,6 @@
 # Screech
 
-A website for generating various types of noises including:
+A website for generating various types of noise including:
 
 - White noise
 - Pink noise
